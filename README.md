@@ -49,9 +49,9 @@ That's it. You should have a working(but slow) mind-controlled brickbreaker game
 
 
 == Sources ==
-[How to Hack Toy EEGs](http://frontiernerds.com/brain-hack)
-[Arduino Brain Library](https://github.com/kitschpatrol/Arduino-Brain-Library)
-[Original Brickbreaker python game](https://github.com/timbrah/Pygame-BrickBreaker)
+- [How to Hack Toy EEGs](http://frontiernerds.com/brain-hack)
+- [Arduino Brain Library](https://github.com/kitschpatrol/Arduino-Brain-Library)
+- [Original Brickbreaker python game](https://github.com/timbrah/Pygame-BrickBreaker)
 
 
 
